@@ -1,2 +1,13 @@
-# student_management.py
-a simple student management system built using python.this project allows users to add, view, search, and delete student records through a menu-driven interface
+A simple Student Management System built using Python.
+
+## Features
+- Add Student
+- View Students
+- Search Student
+- Delete Student
+
+## Technologies Used
+- Python
+
+## Author
+Ayushi Singh
